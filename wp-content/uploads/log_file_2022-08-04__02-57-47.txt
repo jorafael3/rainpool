@@ -1,0 +1,90 @@
+
+---Downloaded files---
+The import files for: Full demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1/rainpool
+Data file = C:\xampp\htdocs\rainpool/wp-content/themes/textron//demo/all_no_woo.xml
+Widget file = C:\xampp\htdocs\rainpool/wp-content/themes/textron//demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+textron_enovathemes -> C:\xampp\htdocs\rainpool/wp-content/themes/textron//demo/options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog widgets : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+* Mailchimp - Subscribe - Imported
+Texto - Stay connected - Imported
+*Recent Posts - Recent posts - Imported
+* Photos from flickr - Photos from flickr - Imported
+Calendario - No Title - Imported
+Nube de etiquetas - Tags - Imported
+
+Blog single post page widgets : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+* Mailchimp - Subscribe - Imported
+Texto - Stay connected - Imported
+*Recent Posts - Recent posts - Imported
+* Photos from flickr - Photos from flickr - Imported
+Calendario - No Title - Imported
+Nube de etiquetas - Tags - Imported
+
+shop-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+
+shop-single-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_products - On sale products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: textron_enovathemes finished successfully!
+
+---ocdi/after_import---
+
